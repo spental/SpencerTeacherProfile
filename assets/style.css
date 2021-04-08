@@ -93,5 +93,37 @@ body {
     z-index: +2222;
 }
 #myVideo {
+    position: relative;
     z-index: -2;
+}
+.center {
+    z-index: 2;
+    position: fixed;
+    background-image: url(photos/gum.jpg);
+  
+
+}
+
+.appdiv {
+    
+}   
+#myVideo {
+ right: 0; 
+  bottom: 0;
+    min-width: 100%;
+     min-height: 100%;
+    width: auto;  
+    height: auto; 
+    z-index: -100;
+    background: url(polina.jpg) no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    background-color: black;
+    background-image: url();
+    background-image: url(photos/gum.jpg);
+    align-content: center;
+    text-align: center;
+   }
+h3{
+    text-align: center;
 }
