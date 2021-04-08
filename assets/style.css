@@ -1,0 +1,77 @@
+
+
+.content {
+    background-color: black;
+    color: white;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    
+}
+h1,p{
+    text-shadow: white;
+    font-size: larger;
+}
+
+#video2 {
+    background-color: black;
+
+}
+#myVideo {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+#test {
+  
+}
+ul{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+* {
+    /* box-sizing: border-box; */
+}
+
+body {
+    margin: 0;
+    font-family: Arial;
+    font-size: 17px;
+}
+
+#myVideo {
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    background-color: black;
+}
+
+.content {
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+
+#myBtn {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+}
+
+#navlink {
+    margin-left:auto;
+    margin-right: auto;
+    width: auto;
+    font-size: 20px;
+    text-transform: uppercase;
+}
