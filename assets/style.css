@@ -51,6 +51,7 @@ body {
 }
 
 .content {
+    z-index: 1234;
     bottom: 0;
     background: rgba(0, 0, 0, 0.5);
     color: #f1f1f1;
@@ -105,6 +106,8 @@ body {
 }
 
 .appdiv {
+    background-color: black;
+    color: white;
     
 }   
 #myVideo {
@@ -133,4 +136,6 @@ h3{
 }
 
 #myVideo {
+    color: white;
+    z-index: 12345;
 }
